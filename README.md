@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @lanicoly
+- 👀 I’m interested in UX/UI Design and Front-End Development
+- 🌱 I’m currently learning CSS and JavaScript
+- 💞️ I’m looking to collaborate on Front-End projects
+- 📫 How to reach me: www.linkedin.com/in/by-lais-nicoly
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: Two years ago I was studying nature preservation.
