@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lanicoly
-- 👀 I’m interested in UX/UI Design and Front-End Development
-- 🌱 I’m currently learning CSS and JavaScript
-- 💞️ I’m looking to collaborate on Front-End projects
-- 📫 How to reach me: www.linkedin.com/in/by-lais-nicoly
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: Two years ago I was studying nature preservation.
+- 👋 Oi! Sou a @lanicoly
+- 👀 Meus pontos fortes e interesses no momento são UX/UI Design e Desenvolvimento em Front-End
+- 🌱 Ultimamente venho aprendendo sobre React
+- 💞️ Busco colaborar em projetos Front-End para me aperfeiçoar cada vez mais!
+- 📫 Entre em contato comigo aqui: www.linkedin.com/in/by-lais-nicoly
+- 😄 Pronomes: Ela/dela
+- ⚡ Fato Curioso: Há dois anos minha área era Meio Ambiente e eu tinha ZERO conhecimento em programação
