@@ -4,4 +4,3 @@
 - 💞️ Busco colaborar em projetos Front-End para me aperfeiçoar cada vez mais!
 - 📫 Entre em contato comigo aqui: www.linkedin.com/in/by-lais-nicoly
 - 😄 Pronomes: Ela/dela
-- ⚡ Fato Curioso: Há dois anos minha área era Meio Ambiente e eu tinha ZERO conhecimento em programação
